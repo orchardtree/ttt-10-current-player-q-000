@@ -1,6 +1,5 @@
 def turn_count(board)
   count = 0
-  until board.
   board.each do |position|
-    
+  count += 1
 end
